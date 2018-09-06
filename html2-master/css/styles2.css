@@ -1,0 +1,11 @@
+
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+}
+div#about_blue li {color: blue; }
+div#about_yellow li { color: orange; }
+ul.nav a { background-color: red;}
+ul.nav a { color: white;}
+div#about_blue {background-color: lightblue;}
+div#about_yellow {background-color: yellow;}
